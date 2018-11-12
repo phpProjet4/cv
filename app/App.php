@@ -2,6 +2,7 @@
 
 
 /**
+ * sss
  * class App gère l'initialisation de la base de donnée
  */
 class App {
